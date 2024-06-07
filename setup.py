@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pybacklogpy',
-    version='0.10',
+    version='0.11',
     author='Hikaru ETO',
     author_email='kitadakyou@gmail.com',
     url='https://github.com/binhqd-nal/PyBacklogPy.git',
